@@ -1,2 +1,2 @@
 # SoftUni-Courses
-This is a repo for Fundamentals module
+This is a repo for exercising how to use Git Hub.
