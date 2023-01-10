@@ -1,2 +1,2 @@
-# SoftUni-Courses
-This is a repo for Fundamentals module
+# SoftUni-Fundamentals
+This is a repo for Java Fundamentals module
