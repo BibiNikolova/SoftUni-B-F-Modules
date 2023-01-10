@@ -1,3 +1,3 @@
 
-# SoftUni-Basics and Fundamentals
-This is a repo for Java Basic and Java Fundamentals modules
+# SoftUni-Java Basics 
+This is a repo for Java Basics module
