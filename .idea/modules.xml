@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/src/Fundamentals.iml" filepath="$PROJECT_DIR$/Fundamentals/src/Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/Fundamentals1.iml" filepath="$PROJECT_DIR$/Fundamentals/Fundamentals1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVA2019/JAVA2019.iml" filepath="$PROJECT_DIR$/JAVA2019/JAVA2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SoftUni-B-F-Modules.iml" filepath="$PROJECT_DIR$/.idea/SoftUni-B-F-Modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/src/basicSyntax/basicSyntax.iml" filepath="$PROJECT_DIR$/Fundamentals/src/basicSyntax/basicSyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/src/dataTypesAndVariables/dataTypesAndVariables.iml" filepath="$PROJECT_DIR$/Fundamentals/src/dataTypesAndVariables/dataTypesAndVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic2022/src/examTasks/examTasks.iml" filepath="$PROJECT_DIR$/Basic2022/src/examTasks/examTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic2022/src/examTemplates/examTemplates.iml" filepath="$PROJECT_DIR$/Basic2022/src/examTemplates/examTemplates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/src/finalExam/finalExam.iml" filepath="$PROJECT_DIR$/Fundamentals/src/finalExam/finalExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/src/lists/lists.iml" filepath="$PROJECT_DIR$/Fundamentals/src/lists/lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/src/mapsLambdaStreamAPI/mapsLambdaStreamAPI.iml" filepath="$PROJECT_DIR$/Fundamentals/src/mapsLambdaStreamAPI/mapsLambdaStreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/src/methods/methods.iml" filepath="$PROJECT_DIR$/Fundamentals/src/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic2022/src/nestedLoops/nestedLoops.iml" filepath="$PROJECT_DIR$/Basic2022/src/nestedLoops/nestedLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamentals/src/regularExpressions/regularExpressions.iml" filepath="$PROJECT_DIR$/Fundamentals/src/regularExpressions/regularExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basic2022/src/testExams/testExams.iml" filepath="$PROJECT_DIR$/Basic2022/src/testExams/testExams.iml" />
+    </modules>
+  </component>
+</project>
